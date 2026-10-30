@@ -24,5 +24,10 @@ namespace _30_10_2026
                 else _health = value;
             }
         }
+        public Character(string name, int health)
+        {
+            Name = name;
+            _health = health;
+        }
     }
 }
