@@ -6,8 +6,8 @@ namespace _30_10_2026
     {
         static void Main(string[] args)
         {
-            Person person1 = new Person("Tien", 175, 65, true);
-            Console.WriteLine(person1.name + "\t" + person1.height + "\t" + person1.weight + "\t" + person1.ismale);
-            Console.ReadLine();
+            Character character1 = new Character("Ryan", 200);
+            Console.WriteLine(character1.Health.ToString());
         }
     }
+}
