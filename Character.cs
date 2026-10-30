@@ -27,7 +27,7 @@ namespace _30_10_2026
         public Character(string name, int health)
         {
             Name = name;
-            _health = health;
+            Health = health;
         }
     }
 }
