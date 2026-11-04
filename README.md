@@ -1,1 +1,1 @@
-# Thực hành OOP phần 2
+# Lập trình hướng đối tượng 2
