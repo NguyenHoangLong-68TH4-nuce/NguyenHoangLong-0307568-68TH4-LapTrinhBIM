@@ -1,1 +1,2 @@
-# NguyenHoangLong-0307568-68TH4
+# Lập trình Revit API buổi 2
+# Hello World
